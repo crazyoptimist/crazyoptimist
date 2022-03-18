@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://crazyoptimist.net">
-    <img alt="STATISTICS" width="600px" src="https://github-readme-stats.vercel.app/api?username=crazyoptimist&count_private=true&show_icons=true&theme=gruvbox" />
+    <img alt="STATISTICS" width="540px" src="https://github-readme-stats.vercel.app/api?username=crazyoptimist&count_private=true&show_icons=true&theme=gruvbox" />
   </a>
 </p>
 
