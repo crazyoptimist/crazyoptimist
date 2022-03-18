@@ -1,16 +1,11 @@
-<p align="center">
+<p align="left">
   <a href="https://crazyoptimist.net">
     <img alt="STATISTICS" width="600px" src="https://github-readme-stats.vercel.app/api?username=crazyoptimist&count_private=true&show_icons=true&theme=gruvbox" />
   </a>
 </p>
 
-<h3 align="center">IDE</h3>
-<p align="center"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
-</p>
-
-<h3 align="center">Programming Languages</h3>
-<p align="center"> 
+<h3 align="left">Programming Languages</h3>
+<p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
@@ -18,8 +13,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
-<h3 align="center">Tools</h3>
-<p align="center">
+<h3 align="left">IDE</h3>
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
+</p>
+
+<h3 align="left">Tools</h3>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://img.icons8.com/color/344/terraform.png" alt="terraform" width="40" height="40"/>
