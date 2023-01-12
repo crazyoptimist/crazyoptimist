@@ -1,8 +1,5 @@
-<p align="left">
-  <a href="https://crazyoptimist.net">
-    <img alt="STATISTICS" width="540px" src="https://github-readme-stats.vercel.app/api?username=crazyoptimist&count_private=true&show_icons=true&theme=gruvbox" />
-  </a>
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=crazyoptimist&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crazyoptimist&theme=gruvbox)
 
 <h3 align="left">Programming Languages and Tools</h3>
 <p align="left"> 
