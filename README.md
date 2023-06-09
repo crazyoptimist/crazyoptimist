@@ -1,9 +1,9 @@
-# Hey, I am crazyoptimist!
+# Hello, world!
 
-- [x] I am a Vim addict.
-- [x] I love consistency.
-- [x] I love learning.
-- [x] I love making mistakes.
+I :heart:
+- [x] consistency.
+- [x] learning.
+- [x] making mistakes.
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=crazyoptimist&theme=gruvbox)
