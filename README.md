@@ -1,9 +1,6 @@
-# Hello, world!
+# Hi!
 
-I :heart:
-- [x] consistency.
-- [x] learning.
-- [x] making mistakes.
+:heart: `consistency` `making mistakes` `learning` :heart:
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=crazyoptimist&theme=gruvbox)
