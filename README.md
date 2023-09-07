@@ -1,6 +1,11 @@
 ###
 
-crazyoptimist :heart: `consistency` `making mistakes` `learning`
+:heart: `consistency` :heavy_plus_sign: `making_mistakes`
+
+###
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=crazyoptimist&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crazyoptimist&theme=gruvbox)
 
 ###
 
