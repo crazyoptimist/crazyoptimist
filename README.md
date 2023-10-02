@@ -9,18 +9,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning Web3<br>🎯 Goals: To make the world a better place with better softwares and decentralization<br>🎲 Fun fact: I'm a BJJ trainee</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
