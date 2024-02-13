@@ -1,6 +1,6 @@
 ###
 
-Consistency is my middle name, especially when it comes to making mistakes :laughing:
+Consistency is my middle name, especially when it comes to making mistakes. 😎
 
 ###
 
