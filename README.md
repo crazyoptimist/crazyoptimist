@@ -1,4 +1,4 @@
-Spoiler! `GPT-3.5 Turbo` created this bio for me. 😀😎
+Spoiler! `GPT-3.5 Turbo` created a bio for me. 😎
 
 ---
 
